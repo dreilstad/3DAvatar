@@ -1,7 +1,6 @@
 # 3DAvatar: 3D camera rig and 3D humanoid reconstruction
 
-#### Summerproject by Didrik Spanne Reilstad as part of the MAXSENSE project
-
+#### Summer project by Didrik Spanne Reilstad at SINTEF - Summer 2022
 ## Table of content
 - [Description](#description)
 - [How to use](#how-to-use)
